@@ -1,5 +1,17 @@
 # 🎓 University Course Management System (SQL Project)
 
+---
+
+## 🧑‍💻 Project Information
+
+- **Name:** Kunj Mistry  
+- **GR ID:** 12078  
+- **Branch:** RW6  
+- **Project Type:** Data Analysis Project  
+- **Date:** 15-03-2026  
+
+---
+
 ## 📌 Project Overview
 The **University Course Management System** is a relational database project designed to manage academic information within a university.  
 This project demonstrates the use of **SQL database design, data manipulation, and complex queries** to handle student enrollments, courses, instructors, and departments.
